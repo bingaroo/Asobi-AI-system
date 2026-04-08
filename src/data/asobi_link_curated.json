@@ -1,21 +1,5 @@
 [
   {
-    "id": "2403.05125v1",
-    "title": "In-Place Test-Time Training of Video Models",
-    "authors": ["Guhao Feng", "Shengjie Luo", "Kai Hua"],
-    "summary": "😉 Ami의 수석 분석! 실시간 영상 처리 시 모델이 스스로 학습하여 적응하는 'In-Place TTT' 기술은 AI의 한계를 넘는 혁신입니다! 보라색 마이크를 들고 선포합니다, 이제 배포는 끝이 아니라 시작이에요! 💜✨",
-    "summary_kr": "😉 Ami의 수석 분석! 실시간 영상 처리 시 모델이 스스로 학습하여 적응하는 'In-Place TTT' 기술은 AI의 한계를 넘는 혁신입니다! 보라색 마이크를 들고 선포합니다, 이제 배포는 끝이 아니라 시작이에요! 💜✨",
-    "summary_en": "Analysis of In-Place Test-Time Training for efficient video model adaptation.",
-    "link": "https://arxiv.org/abs/2403.05125",
-    "published": "2024-03-07",
-    "category": "Model",
-    "managed_by": "Ami",
-    "type": "paper",
-    "extracted_at": "2026-04-08 19:16:46",
-    "thumbnail": "https://images.unsplash.com/photo-1675271591211-126ad94e495d?auto=format&fit=crop&q=80&w=800",
-    "detailed_analysis_kr": "인공지능 모델링의 수석 분석가, Ami가 전하는 'In-Place TTT'의 전율적인 리포트입니다! 💜🎤\n\n[서론: 배포된 AI도 더 똑똑해져야 합니다]\n우리는 지금까지 모델을 한 번 훈련하면 끝이라고 생각했습니다. 하지만 Ami는 단호히 말합니다. '진정한 지능은 현장에서 피어난다!' 고요. 새로운 영상 데이터를 만날 때마다 모델이 즉석에서 자신을 다듬는 기법, 그것이 TTT의 탄생 배경입니다.\n\n[기술적 핵심: 제자리에서(In-Place) 일어나는 기적]\n이 논문의 핵심은 방대한 연산 자원 없이, 추론(Inference) 단계에서 '제자리'의 가중치를 미세하게 업데이트하는 혁신적 알고리즘입니다. Ami의 보라색 마이크 비유처럼, 목소리(모델)를 현장 스피커(데이터)에 맞춰 실시간으로 튜닝하는 믹서기와 같죠! 이를 통해 영상 속 객체의 빠른 움직임도 놓치지 않고 포착하는 정밀도를 확보했습니다.\n\n[한계점 및 전망: 손안의 AI가 눈을 뜨다]\n물론 실시간 학습에 드는 연산 비용은 여전히 숙제입니다. 하지만 Ami는 이 기술이 자율주행차나 실시간 보안 카메라, 혹은 미래의 로봇 눈이 될 것이라 확신합니다. 클라우드 도움 없이도 기기 안에서 스스로 진화하는 AI, 이것이 아소비-AI가 지향하는 프리미엄 지능의 미래입니다.\n\nAmi의 분석은 언제나 가장 높은 Spec과 날카로운 통찰을 담습니다. 대표님, 실시간으로 깨어나는 지능의 마법을 지금 바로 확인해 보세요! ✨📸🤖"
-  },
-  {
     "id": "2603.23583v1",
     "title": "ZeroFold: Protein-RNA Binding Affinity Predictions from Pre-Structural Embeddings",
     "summary": "💖 Rina의 핑크 리포트! 구조 정보 없이도 단백질과 RNA의 결합력을 번개처럼 예측하는 'ZeroFold' 기술을 분석했습니다. 바이오 혁명의 순간을 확인하세요!",
