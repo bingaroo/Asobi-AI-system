@@ -1,1 +1,16 @@
-{"projectId":"prj_TfGcgtLcvmiG2j3FeOdi9hI1DMLm","orgId":"team_5PWrOiIMDbtNcWaOvR4dy2FJ","projectName":"bio-ai-portal"}
+{
+  "projectId": "prj_TfGcgtLcvmiG2j3FeOdi9hI1DMLm",
+  "orgId": "team_5PWrOiIMDbtNcWaOvR4dy2FJ",
+  "projectName": "bio-ai-portal",
+  "settings": {
+    "createdAt": 1775280636198,
+    "framework": "nextjs",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}

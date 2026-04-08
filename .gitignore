@@ -4,3 +4,4 @@ node_modules
 *.tmp
 __pycache__
 data/*.json
+.vercel
