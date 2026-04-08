@@ -1,8 +1,50 @@
 [
   {
+    "id": "2604.06169v1",
+    "title": "In-Place Test-Time Training",
+    "authors": [
+      "Guhao Feng",
+      "Shengjie Luo",
+      "Kai Hua",
+      "Ge Zhang",
+      "Di He",
+      "Wenhao Huang",
+      "Tianle Cai"
+    ],
+    "summary": "지각 중(분석 지연) 😿",
+    "summary_kr": "지각 중(분석 지연) 😿",
+    "summary_en": null,
+    "purpose": null,
+    "method": null,
+    "link": "https://arxiv.org/abs/2604.06169v1",
+    "published": "2026-04-07T17:59:44Z",
+    "category": "Model",
+    "managed_by": "Ami",
+    "type": "paper",
+    "extracted_at": "2026-04-08 19:35:54"
+  },
+  {
+    "id": "2603.23583v1",
+    "title": "ZeroFold: Protein-RNA Binding Affinity Predictions from Pre-Structural Embeddings",
+    "summary_kr": "지각 중(분석 지연) 😿",
+    "summary_en": null,
+    "purpose": null,
+    "method": null,
+    "link": "https://arxiv.org/abs/2603.23583v1",
+    "published": "2026-03-24T15:14:44Z",
+    "category": "RNA",
+    "managed_by": "Rina",
+    "type": "paper",
+    "extracted_at": "2026-04-08 19:36:04"
+  },
+  {
     "id": "2403.05125v1",
     "title": "In-Place Test-Time Training of Video Models",
-    "authors": ["Guhao Feng", "Shengjie Luo", "Kai Hua"],
+    "authors": [
+      "Guhao Feng",
+      "Shengjie Luo",
+      "Kai Hua"
+    ],
     "summary": "😉 Ami의 수석 분석! 실시간 영상 처리 시 모델이 스스로 학습하여 적응하는 'In-Place TTT' 기술은 AI의 한계를 넘는 혁신입니다! 보라색 마이크를 들고 선포합니다, 이제 배포는 끝이 아니라 시작이에요! 💜✨",
     "summary_kr": "😉 Ami의 수석 분석! 실시간 영상 처리 시 모델이 스스로 학습하여 적응하는 'In-Place TTT' 기술은 AI의 한계를 넘는 혁신입니다! 보라색 마이크를 들고 선포합니다, 이제 배포는 끝이 아니라 시작이에요! 💜✨",
     "summary_en": "Analysis of In-Place Test-Time Training for efficient video model adaptation.",
