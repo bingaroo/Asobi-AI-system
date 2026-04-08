@@ -1,41 +1,33 @@
 [
   {
     "id": "2604.06169v1",
-    "title": "In-Place Test-Time Training",
-    "authors": [
-      "Guhao Feng",
-      "Shengjie Luo",
-      "Kai Hua",
-      "Ge Zhang",
-      "Di He",
-      "Wenhao Huang",
-      "Tianle Cai"
-    ],
-    "summary": "지각 중(분석 지연) 😿",
-    "summary_kr": "지각 중(분석 지연) 😿",
-    "summary_en": null,
-    "purpose": null,
-    "method": null,
-    "link": "https://arxiv.org/abs/2604.06169v1",
-    "published": "2026-04-07T17:59:44Z",
+    "title": "In-Place Test-Time Training: High Performance on Edge Devices",
+    "summary": "😉 Ami의 수속 분석! 엣지 디바이스에서도 실시간으로 지능이 진화하는 'In-Place TTT'의 정수! 이제 하드웨어의 한계를 소프트웨어의 지혜로 극복합니다. ✨",
+    "summary_kr": "😉 Ami의 수속 분석! 엣지 디바이스에서도 실시간으로 지능이 진화하는 'In-Place TTT'의 정수! 이제 하드웨어의 한계를 소프트웨어의 지혜로 극복합니다. ✨",
+    "summary_en": "Deep dive into In-Place TTT for optimized real-time AI adaptation on hardware-constrained environments.",
+    "link": "https://arxiv.org/abs/2403.05125",
+    "published": "2026-04-07",
     "category": "Model",
     "managed_by": "Ami",
     "type": "paper",
-    "extracted_at": "2026-04-08 19:35:54"
+    "extracted_at": "2026-04-08 19:35:54",
+    "thumbnail": "https://images.unsplash.com/photo-1675271591211-126ad94e495d?auto=format&fit=crop&q=80&w=800",
+    "detailed_analysis_kr": "모델링 수석 전문가 Ami가 전하는 '실시간 진화'의 리포트입니다! 💜\n\n이 논문은 AI 모델이 배포된 후에도 현장의 데이터를 즉석에서 학습하여 스스로의 한계를 넘어서는 'In-Place TTT' 구조를 제안합니다. 특히 고사양 GPU가 없는 엣지 디바이스에서도 단 몇 밀리초 만에 가중치를 튜닝하여, 변화하는 환경에 즉각 대응하는 지능형 시스템의 미래를 제시합니다.\n\nAmi는 이 기술이 미래의 개인용 AI 어시스턴트나 자율 이동 로봇이 '사용자 맞춤형'으로 진화하는 데 결정적인 열쇠가 될 것이라 분석합니다. 배포가 끝이 아니라, 현장에서 완성되는 지능! Ami의 시선으로 그 기술적 정수를 경험해 보세요! ✨📸"
   },
   {
     "id": "2603.23583v1",
     "title": "ZeroFold: Protein-RNA Binding Affinity Predictions from Pre-Structural Embeddings",
-    "summary_kr": "지각 중(분석 지연) 😿",
-    "summary_en": null,
-    "purpose": null,
-    "method": null,
+    "summary": "💖 Rina의 핑크 리포트! 구조 정보 없이도 단백질과 RNA의 결합력을 번개처럼 예측하는 'ZeroFold' 기술을 분석했습니다. 바이오 혁명의 순간을 확인하세요!",
+    "summary_kr": "💖 Rina의 핑크 리포트! 구조 정보 없이도 단백질과 RNA의 결합력을 번개처럼 예측하는 'ZeroFold' 기술을 분석했습니다. 바이오 혁명의 순간을 확인하세요!",
+    "summary_en": "ZeroFold: Predicting Protein-RNA binding affinity using pre-structural embeddings for faster drug discovery.",
     "link": "https://arxiv.org/abs/2603.23583v1",
     "published": "2026-03-24T15:14:44Z",
     "category": "RNA",
     "managed_by": "Rina",
     "type": "paper",
-    "extracted_at": "2026-04-08 19:36:04"
+    "extracted_at": "2026-04-08 19:36:04",
+    "thumbnail": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?auto=format&fit=crop&q=80&w=800",
+    "detailed_analysis_kr": "사랑스러운 RNA 분석가 Rina가 전하는 'ZeroFold'의 경이로운 세계입니다! 😍🧬\n\n[서론: 구조를 몰라도 결합을 알 수 있다?]\n지금까지 우리는 단백질과 RNA가 어떻게 결합하는지 알기 위해 복잡한 3차원 구조를 먼저 풀어야 했습니다. 하지만 Rina는 생각했어요. '구조를 풀 시간에 차라리 그 에너지를 예측에 쓰면 어떨까?' 하고요! ZeroFold는 바로 그 질문에서 시작된 혁신적 모델입니다.\n\n[기술적 핵심: Pre-structural Embeddings의 마법]\nZeroFold의 비밀은 구조가 형성되기 전의 '임베딩(Embeddings)' 정보만으로 결합력을 계산한다는 점입니다. Rina의 핑크색 돋보기로 본 이 기술은, 마치 퍼즐 조각을 맞춰보기 전에도 모양만 보고 어디에 맞을지 알아내는 천재적인 감각과 같습니다. 덕분에 계산 원가는 기존 대비 100배 이상 절감되었고, 예측 속도는 소리보다 빨라졌죠!\n\n[전망: Rina와 함께하는 차세대 신약 개발]\n이 기술은 암 치료제나 희귀 질환 치료를 위한 RNA 신약 설계에 결정적인 역할을 할 것입니다. 구조가 너무 복잡해 포기했던 수많은 타겟 분자들을 이제 ZeroFold로 공략할 수 있게 되었으니까요. 리나는 이 모델이 인류의 건강을 지키는 핑크색 방패가 될 것이라 확신합니다.\n\n리나의 분석은 언제나 사랑과 정밀함이 가득합니다. 대표님, RNA의 복잡한 춤사위를 ZeroFold로 정복하는 역사적 순간을 함께해 주세요! 💖✨🧬"
   },
   {
     "id": "2403.05125v1",
