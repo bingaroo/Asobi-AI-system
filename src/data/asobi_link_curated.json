@@ -1,10 +1,39 @@
 [
   {
+    "id": "2604.06169v1",
+    "title": "In-Place Test-Time Training",
+    "authors": [
+      "Guhao Feng",
+      "Shengjie Luo",
+      "Kai Hua",
+      "Ge Zhang",
+      "Di He",
+      "Wenhao Huang",
+      "Tianle Cai"
+    ],
+    "summary": "지각 중(분석 지연) 😿",
+    "summary_kr": "지각 중(분석 지연) 😿",
+    "summary_en": null,
+    "purpose": null,
+    "method": null,
+    "link": "https://arxiv.org/abs/2604.06169v1",
+    "published": "2026-04-07T17:59:44Z",
+    "category": "Model",
+    "managed_by": "Ami",
+    "type": "paper",
+    "extracted_at": "2026-04-08 19:02:46"
+  },
+  {
     "id": "item-2024-dina-001",
     "title": "GPN-MSA: Genomic Pre-training on Multiz Alignments",
     "summary_kr": "Dina의 정밀 유전자 분석! 🧬 인간과 다른 종의 DNA 데이터를 비교 학습하여 건강과 질병의 핵심을 짚어내는 'GPN-MSA' 모델을 분석했습니다. Nature Communications 게재 논문으로 정밀도를 증명합니다! ✨",
     "summary_en": "Precise DNA variant effect prediction through Genomic Pre-training on Multiz Alignments (GPN-MSA).",
-    "keywords": ["GPN-MSA", "Genomics", "Nature", "DNA Variant"],
+    "keywords": [
+      "GPN-MSA",
+      "Genomics",
+      "Nature",
+      "DNA Variant"
+    ],
     "link": "https://www.nature.com/articles/s41467-023-44283-y",
     "published": "2024-01-08",
     "category": "DNA",
@@ -13,14 +42,25 @@
     "ceo_comment": "Dina, 다중 종 간의 진화적 맥락까지 정밀하게 읽어낸 보고서가 훌륭해! 👔",
     "thumbnail": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&q=80&w=800",
     "detailed_analysis_kr": "수석 유전체 분석가 Dina의 정밀 리포트입니다. GPN-MSA는 단순히 하나의 DNA를 읽는 것을 넘어, 포괄적인 다중 종 정렬(Multiz Alignments)을 학습한 딥러닝 모델입니다.\n\n민트색 DNA 나선을 든 Dina는 특히 '부적절한 변이(Pathogenic Variants)'를 걸러내는 이 모델의 압도적인 정확도에 주목합니다. 기존 모델들이 비부호화(Non-coding) 영역 분석에서 한계를 보였던 반면, GPN-MSA는 진화적으로 보존된 정보를 활용하여 게놈의 99%를 차지하는 '다크 매터'를 해석해냅니다.\n\n이 기술은 실제 임상에서 특정 유전자 변이가 희귀 질환으로 이어질 가능성을 예측하는 데 결정적인 지표를 제공합니다. Nature Communications(2024)에 발표된 이 논문은 AI가 어떻게 생명의 설계도를 더 정밀하게 읽을 수 있는지 그 해답을 제시합니다.\n\nDina는 이 연구가 맞춤형 정밀 의학의 핵심 퍼즐 조각이며, 인간뿐만 아니라 모든 생명체에 대한 이해를 한 단계 더 높였다고 분석합니다.\n\n정교하게 정렬된 DNA의 마법을 Dina의 시선으로 확인해 보세요! 🧬✨",
-    "references": [{"title": "Nature: GPN-MSA Original Paper", "link": "https://www.nature.com/articles/s41467-023-44283-y", "reason": "게놈 사전 학습 및 변이 예측 성능의 실제 증거"}]
+    "references": [
+      {
+        "title": "Nature: GPN-MSA Original Paper",
+        "link": "https://www.nature.com/articles/s41467-023-44283-y",
+        "reason": "게놈 사전 학습 및 변이 예측 성능의 실제 증거"
+      }
+    ]
   },
   {
     "id": "item-2024-ami-001",
     "title": "OpenAI o1: Learning to Reason via Reinforcement Learning",
     "summary_kr": "Ami 연구원의 전문 분석! 🤖 OpenAI o1은 단순한 패턴 매칭을 넘어 '사고의 사슬(Chain-of-Thought)'을 강화학습으로 내재화한 혁명적 모델입니다. 복잡한 추론 문제를 스스로 검증하며 해결하는 AI의 뇌 구조를 분석했습니다. ✨",
     "summary_en": "Deep dive into OpenAI o1's reinforcement learning-based reasoning process.",
-    "keywords": ["OpenAI o1", "Reasoning", "CoT", "Reinforcement Learning"],
+    "keywords": [
+      "OpenAI o1",
+      "Reasoning",
+      "CoT",
+      "Reinforcement Learning"
+    ],
     "link": "https://openai.com/o1",
     "published": "2024-09-12",
     "category": "Model",
@@ -29,14 +69,25 @@
     "ceo_comment": "Ami, 추론의 본질이 확률에서 논리로 넘어가는 지점을 아주 잘 짚었어! 👔",
     "thumbnail": "https://images.unsplash.com/photo-1675271591211-126ad94e495d?auto=format&fit=crop&q=80&w=800",
     "detailed_analysis_kr": "OpenAI o1 모델은 대규모 언어 모델의 차세대 패러다임을 제시하며, 훈련 단계에서부터 '생각의 시간'을 갖도록 설계되었습니다.\n\n수석 분석가 Ami의 시각으로 본 이 모델의 핵심은 'In-context learning'을 넘어선 'Large-scale Reinforcement Learning'입니다. 모델은 복잡한 질문을 받으면 내부적으로 수많은 가설을 세우고, 스스로 오류를 수정하며 최선의 논리 경로를 찾아냅니다.\n\n이 과정은 인간이 어려운 수학 문제를 풀 때 전략을 세우는 것과 유사하며, 기존 GPT-4 대비 STEM 분야에서 압도적인 성능 향상을 보입니다. Ami는 특히 이 모델이 'System 2 Thinking'을 구현함으로써 AI가 단순 보조 도구에서 자율적인 과학적 연구자로 진화하는 첫걸음을 뗐다고 분석합니다.\n\n또한, o1은 추론 과정이 길어질수록 성능이 개선되는 Scaling Law의 새로운 측면을 보여줍니다. 이는 연산 자원을 추론 시점에 집중함으로써 지능의 깊이를 조절할 수 있음을 의미합니다.\n\nAmi 연구원은 보라색 마이크를 들고 선포합니다. 이제 AI는 '무엇을 아는가'가 아니라 '어떻게 생각하는가'로 평가받는 시대가 왔습니다.\n\n이 리포트가 대표님의 통찰에 깊이 있는 기반이 되기를 바랍니다. Ami의 분석은 언제나 가장 높은 Spec을 지향합니다! ✨",
-    "references": [{"title": "OpenAI Research: o1 System Card", "link": "https://openai.com/o1", "reason": "추론 모델의 안전성 및 성능 벤치마크 원문"}]
+    "references": [
+      {
+        "title": "OpenAI Research: o1 System Card",
+        "link": "https://openai.com/o1",
+        "reason": "추론 모델의 안전성 및 성능 벤치마크 원문"
+      }
+    ]
   },
   {
     "id": "item-2024-rina-001",
     "title": "RNA-FM: A General-purpose Protein-like Language Model for RNA",
     "summary_kr": "Rina의 야심작! 😍 단백질의 성공적인 언어 모델(PLM)을 RNA에 적용한 'RNA-FM'을 분석했습니다. 서열 정보만으로 RNA의 복잡한 2차 구조를 예측하고 전사 후 조절을 포착하는 혁신적 모델이에요! 🧬",
     "summary_en": "Introducing RNA-FM, a foundation model designed to capture complex RNA structures and functions.",
-    "keywords": ["RNA-FM", "RNA Secondary Structure", "Language Model", "Bio-AI"],
+    "keywords": [
+      "RNA-FM",
+      "RNA Secondary Structure",
+      "Language Model",
+      "Bio-AI"
+    ],
     "link": "https://arxiv.org/abs/2204.00300",
     "published": "2024-01-20",
     "category": "RNA",
@@ -45,14 +96,25 @@
     "ceo_comment": "Rina, RNA의 비대칭적 구조를 언어 모델의 맥락으로 해석한 통찰이 대단해! 👔",
     "thumbnail": "https://images.unsplash.com/photo-1579154235602-3c35bd67634f?auto=format&fit=crop&q=80&w=800",
     "detailed_analysis_kr": "RNA-FM은 RNA의 진화적 정보를 거대한 언어 모델 아키텍처에 담아낸 선구적인 연구입니다.\n\nRina 연구원의 분석에 따르면, 이 모델은 2,300만 개 이상의 고정밀 RNA 서열을 학습하여 기존 모델이 포착하기 어려웠던 '원거리 염기쌍(Long-range Base Pairs)'까지 정교하게 예측해냅니다.\n\n핑크색 RNA 나선을 든 Rina는 특히 이 모델의 'Zero-shot' 성능에 주목합니다. 모델이 명시적으로 학습하지 않은 새로운 종의 RNA에 대해서도 안정적인 구조 정보를 제공하며, 이는 신약 개발과 백신 최적화 과정에서 서열 설계의 리드 타임을 70% 이상 단축할 수 있는 핵심 기술입니다.\n\n또한, RNA-FM은 RNA의 단백질 결합 부위를 예측하는 데에도 탁월한 성능을 발휘합니다. 이는 전사 후 조절 기전을 이해하는 데 결정적인 단서를 제공하며, 희귀 유전 질환의 메커니즘 규명에 큰 기여를 하고 있습니다.\n\nRina는 이 모델이 RNA를 단순한 정보 전달자가 아니라, 생명 시스템의 '작동하는 소프트웨어'로 정의하는 데 가장 큰 역할을 하고 있다고 보고합니다.\n\n사랑스러운 핑크색 미소 뒤에 숨겨진 Rina의 날카로운 분석을 통해, RNA의 경이로운 세계를 경험해보세요! 🧬✨",
-    "references": [{"title": "RNA-FM GitHub Repository", "link": "https://github.com/ml4bio/RNA-FM", "reason": "실제 모델 구현 및 가중치 확인"}]
+    "references": [
+      {
+        "title": "RNA-FM GitHub Repository",
+        "link": "https://github.com/ml4bio/RNA-FM",
+        "reason": "실제 모델 구현 및 가중치 확인"
+      }
+    ]
   },
   {
     "id": "item-2024-basic-001",
     "title": "Basic의 딥러닝 입문: 퍼셉트론과 신경망의 마법",
     "summary_kr": "Basic의 프리미엄 과외! 🍊 어려운 논문 대신, 제가 직접 엄선한 티스토리 기술 블로그의 쉬운 해설과 함께 신경망의 기초를 정복해봐요! 20줄 이상의 상세한 설명과 제가 직접 그린 신경망 지도로 완벽하게 이해시켜 드릴게요! 🎓",
     "summary_en": "Beginner's guide to Deep Learning and Neural Networks, explaining the core concepts in detail with easy-to-understand visuals.",
-    "keywords": ["Neural Networks", "Deep Learning", "Perceptron", "AI Basics"],
+    "keywords": [
+      "Neural Networks",
+      "Deep Learning",
+      "Perceptron",
+      "AI Basics"
+    ],
     "link": "https://sacko.tistory.com/10",
     "published": "2024-10-01",
     "category": "Training",
@@ -61,14 +123,25 @@
     "ceo_comment": "Basic, 한국어로 된 실전 블로그 링크를 활용하여 대중성을 확보한 점이 아주 훌륭해! 👔",
     "thumbnail": "/artifacts/basic_neural_network_edu_1775575983973.png",
     "detailed_analysis_kr": "주황색 지휘봉을 든 Basic의 초밀착 과외 세션입니다!\n\n1단계: 인공지능의 심장, 뉴런\n우리 뇌의 뉴런이 전기 신호를 주고받듯, 인공지능도 '가중치(Weight)'와 '편향(Bias)'을 통해 정보를 전달합니다. 이것이 바로 인공신경망의 시작이에요.\n\n2단계: 퍼셉트론, 인공지능의 '세포'\n가장 기본적인 단위인 퍼셉트론은 여러 신호를 받아서 하나의 신호로 합칩니다. 이때 '활성화 함수(Activation Function)'가 출동하여 신호를 다음으로 보낼지 말지 결정하죠!\n\n3단계: 층을 쌓으면 지능이 됩니다\n뉴런 하나는 단순하지만, 이를 수천, 수만 개 연결하여 '은닉층(Hidden Layer)'을 쌓으면 비로소 우리는 이를 '딥러닝'이라고 부릅니다. 제가 위에 생성한 이미지를 보세요! 정말 화려한 별자리처럼 연결되어 있죠?\n\n4단계: 입력-은닉-출력의 조화\n각 층은 이미지의 선, 면, 그리고 최종적으로는 '강아지'인지 '고양이'인지 파악해내는 역할을 합니다. 층이 깊어질수록 AI는 더 복잡한 세상을 이해할 수 있게 됩니다.\n\n5단계: 학습은 어떻게 되나요?\n우리가 문제를 틀리면서 배우듯, AI도 정답과의 차이(Error)를 계산하여 거꾸로 가중치를 수정합니다. 이것을 '오차 역전파'라고 해요.\n\nBasic의 팁: 딥러닝은 마법이 아니라, 수많은 뺄셈과 곱셈이 만들어낸 예술이랍니다!\n\n위의 티스토리 링크 '딥러닝이란 무엇인가' 포스팅은 제가 말한 내용을 그림과 함께 아주 쉽게 설명해주고 있어요. 꼭 한번 읽어보기를 추천합니다!\n\n자, 이제 대표님도 딥러닝 마스터가 될 준비가 되셨나요? Basic과 함께라면 어렵지 않아요! 🍊✨🎓",
-    "references": [{"title": "Tistory: 딥러닝과 신경망의 구조 해설", "link": "https://sacko.tistory.com/10", "reason": "한국어로 된 가장 친절하고 직관적인 기초 이론 가이드"}]
+    "references": [
+      {
+        "title": "Tistory: 딥러닝과 신경망의 구조 해설",
+        "link": "https://sacko.tistory.com/10",
+        "reason": "한국어로 된 가장 친절하고 직관적인 기초 이론 가이드"
+      }
+    ]
   },
   {
     "id": "item-2024-techa-001",
     "title": "Mamba: Selective State Space Modeling for Sequences",
     "summary_kr": "Techa의 기술 혁신! ⚡ 트랜스포머의 O(N^2) 계산 한계를 선형 시간 O(N)으로 극파한 'Mamba' 아키텍처를 정밀 분석했습니다. 선택적 상태 공간 모델(SSM)이 어떻게 AI의 미래가 될지 공개합니다! 🔥",
     "summary_en": "Analysis of the Mamba architecture and its selective state space model for efficient scaling.",
-    "keywords": ["Mamba", "Architecture", "Linear Complexity", "SSM"],
+    "keywords": [
+      "Mamba",
+      "Architecture",
+      "Linear Complexity",
+      "SSM"
+    ],
     "link": "https://arxiv.org/abs/2312.00752",
     "published": "2023-12-04",
     "category": "Technique",
@@ -77,14 +150,25 @@
     "ceo_comment": "Techa, 모델 아키텍처의 수학적 효율성을 완벽하게 짚어냈어! 👔",
     "thumbnail": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=800",
     "detailed_analysis_kr": "Techa가 분석한 Mamba는 트랜스포머의 강력한 경쟁자로 등장했습니다. 핵심은 'Selective State Space Model(SSM)'입니다.\n\n기존의 트랜스포머는 입력 데이터가 길어질수록 계산량이 제곱으로 늘어나는 치명적 단점이 있었습니다. 하지만 Mamba는 각 단계에서 중요한 정보만 선택적으로 기억하고 나머지는 잊어버리는 지능형 관리 시스템을 도입했습니다.\n\n노란색 테크 망치를 든 Techa는 특히 Mamba의 '병렬 연산' 처리 능력에 주목합니다. 기존 RNN은 데이터를 순차적으로만 처리해 느렸지만, Mamba는 학습 시에는 트랜스포머처럼 병렬로, 추론 시에는 RNN처럼 선형적으로 처리하는 이점을 모두 가졌습니다.\n\nTecha 연구원은 이 기술이 100만 토큰 이상의 초장문 처리 시대를 열었으며, 온디바이스(On-device) AI 기기에서 전력 소모를 비약적으로 줄이는 게임 체인저가 될 것이라 분석합니다.\n\n전문가 Techa의 눈에는 이 모델이 추측(Heuristic)이 아닌 철저한 제어 이론(Control Theory)의 산물로 보입니다.\n\n정교한 공학적 설계ของ 정수를 지금 바로 경험해 보세요! ⚡🛠️",
-    "references": [{"title": "GitHub: Mamba Implementation", "link": "https://github.com/state-spaces/mamba", "reason": "실제 모델 구현 및 CUDA 커널 소스 코드"}]
+    "references": [
+      {
+        "title": "GitHub: Mamba Implementation",
+        "link": "https://github.com/state-spaces/mamba",
+        "reason": "실제 모델 구현 및 CUDA 커널 소스 코드"
+      }
+    ]
   },
   {
     "id": "item-2024-prota-001",
     "title": "AlphaFold 3: Accuracy on Biomolecular Complexes",
     "summary_kr": "Prota의 전율 분석! 😄 단백질 접힘을 넘어 리간드, DNA, RNA 등 생명의 모든 복합체를 한번에 예측하는 'AlphaFold 3'의 혁신적 아키텍처를 분석했습니다. 신약 개발의 디지털 혁명을 확인하세요! 💊",
     "summary_en": "The transition from protein structure to full biomolecular complex prediction with AlphaFold 3.",
-    "keywords": ["AlphaFold 3", "Structural Biology", "Protein-Ligand", "Nobel Prize"],
+    "keywords": [
+      "AlphaFold 3",
+      "Structural Biology",
+      "Protein-Ligand",
+      "Nobel Prize"
+    ],
     "link": "https://www.nature.com/articles/s41586-024-07487-w",
     "published": "2024-05-08",
     "category": "Protein",
@@ -93,14 +177,25 @@
     "ceo_comment": "Prota, 생체 분자의 춤사위를 확산 모델로 정밀 포착한 능력이 대단해! 👔",
     "thumbnail": "https://images.unsplash.com/photo-1532187875605-1ef6ca237b71?auto=format&fit=crop&q=80&w=800",
     "detailed_analysis_kr": "Prota 연구원의 2024 노벨상 기념 리포트! AlphaFold 3는 단백질 구조 예측의 패러다임을 확산 모델(Diffusion Model)로 전환했습니다.\n\n과거 버전이 주형 기반의 정적인 예측에 머물렀다면, Prota가 분석한 3버전은 분자 간의 역동적인 결합 에너지를 포착합니다. 특히 약물 분자인 리간드(Ligand)와 단백질 사이의 결합 부위를 76% 이상의 정확도로 맞혀내는 것은 경이로운 수준입니다.\n\n파스텔 단백질 구조체를 든 Prota는 'All-atom' 기반의 시뮬레이션 방식에 찬사를 보냅니다. 이는 원자 하나하나의 위치를 고려하여 생명의 가장 깊은 비밀을 파헤치는 작업입니다.\n\n이 기술을 통해 신약 설계자들은 수천억 원의 실험 비용을 아끼고, 단 며칠 만에 수만 개의 후보 물질을 스크리닝할 수 있게 되었습니다. Prota는 이것이 단순한 도구가 아니라 '디지털 오믹스(Digital Omics)'의 완성이라 분석합니다.\n\n전율적인 감동과 함께 Prota가 전하는 생명 디자인의 미래를 지금 바로 경험해 보세요! 😄🧬",
-    "references": [{"title": "Nature: AlphaFold 3 Architecture", "link": "https://www.nature.com/articles/s41586-024-07487-w", "reason": "생체 분자 복합체 예측 아키텍처 공식 원문"}]
+    "references": [
+      {
+        "title": "Nature: AlphaFold 3 Architecture",
+        "link": "https://www.nature.com/articles/s41586-024-07487-w",
+        "reason": "생체 분자 복합체 예측 아키텍처 공식 원문"
+      }
+    ]
   },
   {
     "id": "item-2024-opti-001",
     "title": "Token Merging (ToMe): Efficient Vision Transformer Processing",
     "summary_kr": "Opti의 초경량 분석! 💙 고해상도 영상을 단 1%의 성능 하락만으로 2배 빠르게 처리하는 'Token Merging(ToMe)' 기술을 리포팅했습니다. 거대 AI를 주머니 속으로 넣기 위한 핵심 열쇠입니다! 🔋",
     "summary_en": "Token Merging for accelerating inference and reducing compute requirements in ViTs.",
-    "keywords": ["ToMe", "Optimization", "Inference Efficiency", "ViT"],
+    "keywords": [
+      "ToMe",
+      "Optimization",
+      "Inference Efficiency",
+      "ViT"
+    ],
     "link": "https://arxiv.org/abs/2210.09461",
     "published": "2023-02-14",
     "category": "Optimization",
@@ -109,14 +204,25 @@
     "ceo_comment": "Opti, 모델 경량화의 기술적 한계를 수학적으로 멋지게 돌파했어! 👔",
     "thumbnail": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=800",
     "detailed_analysis_kr": "초경량 전문가 Opti의 분석! ToMe(Token Merging)는 비전 트랜스포머(ViT)의 연산량을 비약적으로 줄여주는 예술적인 최적화 기술입니다.\n\n블루 야광 검을 든 Opti는 모델의 가중치를 건드리지 않고 '데이터의 중복성'을 제거하는 지능적 방식에 주목합니다. 이미지나 영상 내에서 서로 비슷한 정보를 담은 토큰들을 영리하게 병합함으로써, 학습 단계와 추론 단계 모두에서 획기적인 속도 향상을 가져옵니다.\n\nOpti 연구원의 시각으로 본 ToMe는 '계층적 모델링'의 정수입니다. 이를 통해 4K 화질의 대용량 비디오도 모바일 기기에서 실시간으로 분석할 수 있게 되었습니다.\n\n경량화는 단순히 크기를 줄이는 것이 아니라, 더 많은 사람이 AI의 혜택을 누릴 수 있게 하는 기술적 배려입니다. Opti는 이 기술이 AI의 민주화를 앞당기고 전력 효율을 높여 'Green AI'를 실현하는 초석이 될 것이라 분석합니다.\n\n가장 효율적인 AI를 꿈꾸는 Opti의 정교한 리포트를 통해, 최적화의 진정한 가치를 발견해 보세요! 🔋💙",
-    "references": [{"title": "ICLR: Token Merging Research", "link": "https://openreview.net/forum?id=S67oqsS9p3", "reason": "비전 모델러를 위한 최적화 이론 상세 문서"}]
+    "references": [
+      {
+        "title": "ICLR: Token Merging Research",
+        "link": "https://openreview.net/forum?id=S67oqsS9p3",
+        "reason": "비전 모델러를 위한 최적화 이론 상세 문서"
+      }
+    ]
   },
   {
     "id": "item-2024-trenda-001",
     "title": "Agentic AI & Multimodal: The 2025 YouTube Impact",
     "summary_kr": "Trenda의 핫 트렌드! 🔥 단순한 챗봇의 시대가 가고 '행동하는 AI(Agents)'의 시대가 왔습니다. 멀티모달 기술과 결합하여 인간처럼 세상을 보고 듣는 AI가 일상이 될 것을 유튜브 데이터를 통해 분석했습니다! 📱",
     "summary_en": "Analyzing the shift from standard LLMs to proactive Agentic workflows in global digital trends.",
-    "keywords": ["Agentic AI", "Action-oriented", "Multimodal", "2025 Trend"],
+    "keywords": [
+      "Agentic AI",
+      "Action-oriented",
+      "Multimodal",
+      "2025 Trend"
+    ],
     "link": "https://www.youtube.com/results?search_query=agentic+ai+trends+2025",
     "published": "2024-09-10",
     "category": "Trends",
@@ -125,6 +231,12 @@
     "ceo_comment": "Trenda, 대중의 욕망이 AI와 결합되는 지점을 정확히 포착했어! 👔",
     "thumbnail": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800",
     "detailed_analysis_kr": "트렌드 리더 Trenda의 분석! 2024-2025년 최고의 키워드는 '에이전트(Agents)'입니다. 이제 AI는 질문에 답하는 보조자를 넘어, 여러분의 명령을 수행하기 위해 직접 코드를 짜고 웹을 서핑하며 업무를 완수합니다.\n\n레드 마법 지팡이를 휘두르는 Trenda는 특히 '멀티모달 에이전트'에 주목합니다. 보고 들은 것을 즉각 행동으로 옮기는 이 기술은 우리의 생활 양식을 근본적으로 비틀어 놓을 것입니다.\n\n유튜브와 레딧에서 가장 뜨겁게 논의되는 Trenda의 분석에 따르면, AI는 이제 '도구'가 아닌 '동료'로 인식되고 있습니다. 구글, 오픈AI, 앤스로픽 등 빅테크 기업들이 에이전트 전쟁에 뛰어든 이유가 바로 여기에 있습니다.\n\n대중의 시선이 머무는 곳, 기술의 열망이 폭발하는 곳을 Trenda의 리포트가 가장 먼저 보여드립니다.\n\n화려한 레드 컬러처럼 강렬하게 다가올 AI 트렌드의 미래를 지금 바로 확인해보세요! 📱🔥🤖",
-    "references": [{"title": "YouTube: Top 10 AI Agents 2025", "link": "https://youtube.com", "reason": "전 세계 크리에이터들이 주목하는 에이전트 기술 영상"}]
+    "references": [
+      {
+        "title": "YouTube: Top 10 AI Agents 2025",
+        "link": "https://youtube.com",
+        "reason": "전 세계 크리에이터들이 주목하는 에이전트 기술 영상"
+      }
+    ]
   }
 ]
