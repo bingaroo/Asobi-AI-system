@@ -58,6 +58,25 @@ export default function KnowledgeModal({ selectedItem, onClose, lang }: Knowledg
               </header>
 
               <div className="space-y-16">
+                {/* Main Link Section [v122 Added] */}
+                {selectedItem.link && (
+                  <motion.div 
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    className="flex justify-center"
+                  >
+                    <a 
+                      href={selectedItem.link} 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                      className="group relative flex items-center gap-6 px-16 py-6 bg-rina-pink text-white rounded-[3rem] font-black text-2xl shadow-[0_20px_40px_rgba(255,107,157,0.3)] hover:shadow-[0_25px_60px_rgba(255,107,157,0.5)] transition-all transform hover:-translate-y-2 active:scale-95 overflow-hidden"
+                    >
+                      <span className="relative z-10 italic uppercase tracking-tighter">View Original Source ↗</span>
+                      <div className="absolute inset-0 bg-white/20 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700 skew-x-[-15deg]"></div>
+                    </a>
+                  </motion.div>
+                )}
+
                 {/* Detailed Insight Section */}
                 <section className="relative">
                   <div className="absolute -left-12 top-0 text-5xl opacity-10 font-black italic text-rina-pink select-none">INSIGHT</div>
