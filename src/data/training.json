@@ -1,0 +1,29 @@
+{
+  "last_updated": "2026-04-04T00:00:00Z",
+  "series": [
+    {
+      "id": "training_01",
+      "step": 1,
+      "title": "인공지능이 무엇인지 설명한다",
+      "summary": "인공지능의 정의와 역사, 그리고 우리 삶에 미치는 영향에 대해 아주 쉽게 알아봅니다.",
+      "content": "인공지능(AI)은 인간의 지능을 기계로 구현한 것입니다...",
+      "status": "published"
+    },
+    {
+      "id": "training_02",
+      "step": 2,
+      "title": "딥러닝의 구성요소를 설명한다",
+      "summary": "뉴런, 레이어, 가중치 등 딥러닝을 이루는 핵심 벽돌들을 하나씩 살펴봅니다.",
+      "content": "딥러닝은 여러 층의 인공신경망으로 구성됩니다...",
+      "status": "published"
+    },
+    {
+      "id": "training_03",
+      "step": 3,
+      "title": "학습이 어떻게 이루어지는 지 자세하게 설명한다",
+      "summary": "Activation function, Node, Loss function, Backpropagation의 원리를 파헤칩니다.",
+      "content": "모델은 손실 함수(Loss function)를 줄이는 방향으로 연결 강도를 조절하며 학습합니다...",
+      "status": "draft"
+    }
+  ]
+}
