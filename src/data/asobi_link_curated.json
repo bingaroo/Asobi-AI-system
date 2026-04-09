@@ -1,5 +1,37 @@
 [
   {
+    "id": "2604.07349v1",
+    "title": "Toward a Tractability Frontier for Exact Relevance Certification",
+    "authors": [
+      "Tristan Simas"
+    ],
+    "summary": "지각 중(분석 지연) 😿",
+    "summary_kr": "지각 중(분석 지연) 😿",
+    "summary_en": null,
+    "purpose": null,
+    "method": null,
+    "link": "https://arxiv.org/abs/2604.07349v1",
+    "published": "2026-04-08T17:59:47Z",
+    "category": "Model",
+    "managed_by": "Ami",
+    "type": "paper",
+    "extracted_at": "2026-04-09 21:50:40"
+  },
+  {
+    "id": "2604.06761v1",
+    "title": "A Massively Scalable Ligand-Protein Dissociation Dynamic Database Derived from Atomistic Molecular Modelling",
+    "summary_kr": "지각 중(분석 지연) 😿",
+    "summary_en": null,
+    "purpose": null,
+    "method": null,
+    "link": "https://arxiv.org/abs/2604.06761v1",
+    "published": "2026-04-08T07:27:26Z",
+    "category": "Protein",
+    "managed_by": "Prota",
+    "type": "paper",
+    "extracted_at": "2026-04-09 21:51:10"
+  },
+  {
     "id": "2603.23583v1",
     "title": "ZeroFold: Protein-RNA Binding Affinity Predictions from Pre-Structural Embeddings",
     "summary": "💖 Rina의 핑크 리포트! 구조 정보 없이도 단백질과 RNA의 결합력을 번개처럼 예측하는 'ZeroFold' 기술을 분석했습니다. 바이오 혁명의 순간을 확인하세요!",
