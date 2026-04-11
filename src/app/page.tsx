@@ -161,6 +161,13 @@ export default function Home() {
       {/* Footer Meta */}
       <footer className="py-24 px-8 text-center bg-gray-50/50">
         <div className="text-5xl mb-8">✨🎀💖💎🧬⭐</div>
+        <section className="mt-20 py-12 border-t-4 border-black text-center">
+          <p className="text-xl font-black italic mb-2">Asobi-AI Link Portal Remastered</p>
+          <div className="flex justify-center items-center gap-4">
+            <span className="px-3 py-1 bg-black text-white font-bold rounded">ver 1.35 LIVE</span>
+            <span className="text-sm font-bold opacity-50">© 2026 Ami-Ent AI Team. All Rights Reserved.</span>
+          </div>
+        </section>
         <p className="text-[10px] font-black tracking-[0.8em] text-rina-pink uppercase">
           © 2026 ASOBI-AI LINK PORTAL. LOVELY & POWERFUL.
         </p>
